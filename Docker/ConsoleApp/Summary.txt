@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=w5kvl_adJbg&ab_channel=LearnNow%21
+
+1. Create Dockerfile and fill it with the code
+2. Publish your solution to release folder
+3. Go to folder where Dockerfile
+4. cmd
+5. dir
+6. docker build -t myimage . 
+7. docker run myimage
+
+result:
+-->hello, world!
+
